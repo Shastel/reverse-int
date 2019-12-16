@@ -1,7 +1,5 @@
 # Reverse Int
 
-## History
-
 ## Task
 
 Given: number, your task is to implement function that reverse digits of this number.
