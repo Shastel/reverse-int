@@ -24,12 +24,12 @@ Write your code in `src/index.js.
 6. Run `npm test` in the command line  
 7. You will see the number of passing and failing tests you 100% of passing tests is equal to 100p in score  
 
-## Submit to [rs app](https://app.rs.school/epamlearningjs)
-1. Open [rs app](https://app.rs.school/epamlearningjs) and login
-2. Go to [submit task page](https://app.rs.school/epamlearningjs)
-3. Select your task (towel-sort)
-4. Press the submit button and enjoy, results will be available in few minutes
+## Submit to [rs app](https://app.rs.school)
+1. Open [rs app](https://app.rs.school) and login
+2. Go to [submit task page](https://app.rs.school/course/student/auto-test?course=rs-2020-q1)
+3. Select your task (reverse-int)
+4. Press the submit button and enjoy
 
 ### Notes
-1. We recommend you to use nodejs of version 12 or lower. If you using are any of the features which are not supported by v12, the score won't be submitted.
+1. We recommend you to use nodejs of version 14 or lower. If you using are any of the features which are not supported by v12, the score won't be submitted.
 2. Each of your test case is limited to 30 sec.
